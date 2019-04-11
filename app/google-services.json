@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "446532889315",
+    "firebase_url": "https://fir-loginapp-c9322.firebaseio.com",
+    "project_id": "fir-loginapp-c9322",
+    "storage_bucket": "fir-loginapp-c9322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446532889315:android:8fcdf9ee7a67aa25",
+        "android_client_info": {
+          "package_name": "com.ckdtech.www.firebaseloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQZdfQr67GH_1gHNd-4HePsdZK2Zucuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446532889315-9bhvmsej0sv0urddbfc3r7qhdmtvhejr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
